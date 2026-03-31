@@ -34,7 +34,7 @@ Foi desenvolvido um dashboard utilizando Power BI com foco em:
 ## Dashboard Overview
 
 ![Overview](images/sales_dashboard-1.png)
-![Overview](images/sales_dashboard-2.png)
+![Overview](images/sales_dashboard-3.png)
 
 ## Insights
 

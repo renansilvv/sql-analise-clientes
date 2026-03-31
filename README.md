@@ -22,7 +22,7 @@ As consultas foram desenvolvidas com foco em responder perguntas básicas de neg
 - clientes com maior volume de compras
 - evolução das vendas ao longo do tempo
 
-Power BI
+## Power BI
 
 Foi desenvolvido um dashboard utilizando Power BI com foco em:
 

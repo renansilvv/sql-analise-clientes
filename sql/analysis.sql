@@ -12,9 +12,9 @@ FROM sales
 GROUP BY category
 ORDER BY receita DESC;
 
-SELECT product, SUM(sales) AS receita
+SELECT product_name, SUM(sales) AS receita
 FROM sales
-GROUP BY product
+GROUP BY product_name
 ORDER BY receita DESC
 LIMIT 10;
 
